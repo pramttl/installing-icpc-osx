@@ -39,7 +39,7 @@ Installing Intel ICPC on OS X Yosemite for using OpenMP
 
    ```
   dyld: Library not loaded: libiomp5.dylib
-  Referenced from: /Users/pranjal/osu/parallel-prog-cs575/./hello
+  Referenced from: /Users/pranjal/osu/parallel-prog-cs575/./myprog
   Reason: image not found
   Trace/BPT trap: 5
   ```
