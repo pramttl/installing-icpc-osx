@@ -16,8 +16,9 @@ Installing Intel ICPC on OS X Yosemite for using OpenMP
 
 4. Here is a simple OpemMP program that sets the number of threads to use equal to the number of cores on the system.
 
-    ``` myprog.c
+    Filename: `myprog.c`
 
+    ```
     #include <stdio.h>
     #include <omp.h>
      
